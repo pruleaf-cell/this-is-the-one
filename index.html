@@ -3,13 +3,42 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Etymology (Static)</title>
+    <title>Etymology Explorer</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <main>
-      <h1>Etymology</h1>
-      <p>If you can read this, your deploy works. Humanity still won’t, but your site will.</p>
+    <a class="skip-link" href="#results-heading">Skip to results</a>
+    <main class="app" aria-label="Etymology explorer">
+      <header class="app-header">
+        <h1>Etymology Explorer</h1>
+        <p>Search words, inspect their etymological chain, and browse relatives by PIE root.</p>
+      </header>
+
+      <section class="controls" aria-label="Search controls">
+        <label for="search-input">Search words</label>
+        <div class="search-row">
+          <input
+            id="search-input"
+            name="search"
+            type="search"
+            autocomplete="off"
+            placeholder="Try: mother, wheel, nocturnal..."
+          />
+          <button id="random-btn" type="button">Random word</button>
+        </div>
+      </section>
+
+      <div class="layout">
+        <section class="list-panel" aria-labelledby="results-heading">
+          <h2 id="results-heading">Results</h2>
+          <p id="result-count" aria-live="polite"></p>
+          <ul id="results-list" tabindex="0" aria-label="Matching words"></ul>
+        </section>
+
+        <section class="detail-panel" id="detail-panel" aria-live="polite" aria-label="Word detail"></section>
+      </div>
     </main>
+
+    <script type="module" src="./app.js"></script>
   </body>
 </html>

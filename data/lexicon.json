@@ -1,0 +1,322 @@
+[
+  {
+    "id": "mother",
+    "word": "mother",
+    "meaning": "female parent",
+    "pos": "noun",
+    "ipa": "/ˈmʌðər/",
+    "pieRoot": "*méh₂tēr",
+    "etymologyChain": ["PIE *méh₂tēr", "Proto-Germanic *mōdēr", "Old English mōdor", "Modern English mother"],
+    "cognates": ["German Mutter", "Latin mater", "Sanskrit mātṛ"]
+  },
+  {
+    "id": "father",
+    "word": "father",
+    "meaning": "male parent",
+    "pos": "noun",
+    "ipa": "/ˈfɑːðər/",
+    "pieRoot": "*ph₂tḗr",
+    "etymologyChain": ["PIE *ph₂tḗr", "Proto-Germanic *fadēr", "Old English fæder", "Modern English father"],
+    "cognates": ["German Vater", "Latin pater", "Greek patēr"]
+  },
+  {
+    "id": "brother",
+    "word": "brother",
+    "meaning": "male sibling",
+    "pos": "noun",
+    "ipa": "/ˈbrʌðər/",
+    "pieRoot": "*bʰréh₂tēr",
+    "etymologyChain": ["PIE *bʰréh₂tēr", "Proto-Germanic *brōþēr", "Old English brōþor", "Modern English brother"],
+    "cognates": ["German Bruder", "Sanskrit bhrātṛ", "Latin frāter"]
+  },
+  {
+    "id": "daughter",
+    "word": "daughter",
+    "meaning": "female child",
+    "pos": "noun",
+    "ipa": "/ˈdɔːtər/",
+    "pieRoot": "*dʰugh₂tḗr",
+    "etymologyChain": ["PIE *dʰugh₂tḗr", "Proto-Germanic *duhtēr", "Old English dohtor", "Modern English daughter"],
+    "cognates": ["German Tochter", "Old Norse dóttir"]
+  },
+  {
+    "id": "heart",
+    "word": "heart",
+    "meaning": "organ that pumps blood; figurative center",
+    "pos": "noun",
+    "ipa": "/hɑːrt/",
+    "pieRoot": "*ḱḗr",
+    "etymologyChain": ["PIE *ḱḗr", "Proto-Germanic *hertō", "Old English heorte", "Modern English heart"],
+    "cognates": ["Latin cor", "Greek kardia", "German Herz"]
+  },
+  {
+    "id": "cardiac",
+    "word": "cardiac",
+    "meaning": "relating to the heart",
+    "pos": "adjective",
+    "ipa": "/ˈkɑːrdiæk/",
+    "pieRoot": "*ḱḗr",
+    "etymologyChain": ["PIE *ḱḗr", "Greek kardia", "Late Latin cardiacus", "Modern English cardiac"],
+    "cognates": ["cardiology", "pericardium"]
+  },
+  {
+    "id": "three",
+    "word": "three",
+    "meaning": "the number after two",
+    "pos": "numeral",
+    "ipa": "/θriː/",
+    "pieRoot": "*tréyes",
+    "etymologyChain": ["PIE *tréyes", "Proto-Germanic *þrīz", "Old English þrīe", "Modern English three"],
+    "cognates": ["Latin trēs", "Greek treis", "Sanskrit trayas"]
+  },
+  {
+    "id": "ten",
+    "word": "ten",
+    "meaning": "the number after nine",
+    "pos": "numeral",
+    "ipa": "/tɛn/",
+    "pieRoot": "*déḱm̥",
+    "etymologyChain": ["PIE *déḱm̥", "Proto-Germanic *tehun", "Old English tīen", "Modern English ten"],
+    "cognates": ["Latin decem", "Greek deka", "French dix"]
+  },
+  {
+    "id": "decalogue",
+    "word": "decalogue",
+    "meaning": "set of ten commandments",
+    "pos": "noun",
+    "ipa": "/ˈdɛkəlɔːɡ/",
+    "pieRoot": "*déḱm̥",
+    "etymologyChain": ["PIE *déḱm̥", "Greek deka + logos", "Late Latin decalōgus", "Modern English decalogue"],
+    "cognates": ["decimal", "decade", "December"]
+  },
+  {
+    "id": "name",
+    "word": "name",
+    "meaning": "word used to identify a person or thing",
+    "pos": "noun",
+    "ipa": "/neɪm/",
+    "pieRoot": "*h₁nómn̥",
+    "etymologyChain": ["PIE *h₁nómn̥", "Proto-Germanic *namô", "Old English nama", "Modern English name"],
+    "cognates": ["Latin nōmen", "Greek onoma", "Sanskrit nāman"]
+  },
+  {
+    "id": "know",
+    "word": "know",
+    "meaning": "to be aware of",
+    "pos": "verb",
+    "ipa": "/noʊ/",
+    "pieRoot": "*ǵneh₃-",
+    "etymologyChain": ["PIE *ǵneh₃-", "Proto-Germanic *knēaną", "Old English cnāwan", "Modern English know"],
+    "cognates": ["Greek gignōskein", "Latin (g)nōscere"]
+  },
+  {
+    "id": "cognition",
+    "word": "cognition",
+    "meaning": "the process of knowing",
+    "pos": "noun",
+    "ipa": "/kɒɡˈnɪʃən/",
+    "pieRoot": "*ǵneh₃-",
+    "etymologyChain": ["PIE *ǵneh₃-", "Latin cognitiō", "French cognition", "Modern English cognition"],
+    "cognates": ["recognize", "incognito"]
+  },
+  {
+    "id": "star",
+    "word": "star",
+    "meaning": "luminous celestial body",
+    "pos": "noun",
+    "ipa": "/stɑːr/",
+    "pieRoot": "*h₂stḗr",
+    "etymologyChain": ["PIE *h₂stḗr", "Proto-Germanic *sternô", "Old English steorra", "Modern English star"],
+    "cognates": ["Latin stella", "Greek astēr"]
+  },
+  {
+    "id": "astronomy",
+    "word": "astronomy",
+    "meaning": "study of celestial objects",
+    "pos": "noun",
+    "ipa": "/əˈstrɒnəmi/",
+    "pieRoot": "*h₂stḗr",
+    "etymologyChain": ["PIE *h₂stḗr", "Greek astron + nomos", "Latin astronomia", "Modern English astronomy"],
+    "cognates": ["asteroid", "astral"]
+  },
+  {
+    "id": "new",
+    "word": "new",
+    "meaning": "recently made or discovered",
+    "pos": "adjective",
+    "ipa": "/nuː/",
+    "pieRoot": "*néwos",
+    "etymologyChain": ["PIE *néwos", "Proto-Germanic *newjaz", "Old English nīwe", "Modern English new"],
+    "cognates": ["Latin novus", "French nouveau", "Russian novyy"]
+  },
+  {
+    "id": "novel",
+    "word": "novel",
+    "meaning": "new, and by extension a long fictional prose work",
+    "pos": "noun",
+    "ipa": "/ˈnɒvəl/",
+    "pieRoot": "*néwos",
+    "etymologyChain": ["PIE *néwos", "Latin novellus", "Italian novella", "Modern English novel"],
+    "cognates": ["innovate", "novice"]
+  },
+  {
+    "id": "bear",
+    "word": "bear",
+    "meaning": "to carry; a large mammal",
+    "pos": "verb / noun",
+    "ipa": "/bɛər/",
+    "pieRoot": "*bʰer-",
+    "etymologyChain": ["PIE *bʰer-", "Proto-Germanic *beraną", "Old English beran", "Modern English bear"],
+    "cognates": ["Latin ferre", "Greek pherein", "birth"]
+  },
+  {
+    "id": "fertile",
+    "word": "fertile",
+    "meaning": "productive, able to bear offspring",
+    "pos": "adjective",
+    "ipa": "/ˈfɜːrtaɪl/",
+    "pieRoot": "*bʰer-",
+    "etymologyChain": ["PIE *bʰer-", "Latin fertilis", "French fertile", "Modern English fertile"],
+    "cognates": ["ferry", "confer", "offer"]
+  },
+  {
+    "id": "foot",
+    "word": "foot",
+    "meaning": "lower extremity used for standing and walking",
+    "pos": "noun",
+    "ipa": "/fʊt/",
+    "pieRoot": "*pṓds",
+    "etymologyChain": ["PIE *pṓds", "Proto-Germanic *fōts", "Old English fōt", "Modern English foot"],
+    "cognates": ["Latin pēs", "Greek pous", "pedal"]
+  },
+  {
+    "id": "pedal",
+    "word": "pedal",
+    "meaning": "operated by the foot",
+    "pos": "noun / adjective",
+    "ipa": "/ˈpɛdəl/",
+    "pieRoot": "*pṓds",
+    "etymologyChain": ["PIE *pṓds", "Latin pedalis", "French pédale", "Modern English pedal"],
+    "cognates": ["pedestrian", "podiatry"]
+  },
+  {
+    "id": "tooth",
+    "word": "tooth",
+    "meaning": "hard structure in the mouth used for biting",
+    "pos": "noun",
+    "ipa": "/tuːθ/",
+    "pieRoot": "*h₃dónts",
+    "etymologyChain": ["PIE *h₃dónts", "Proto-Germanic *tanþs", "Old English tōþ", "Modern English tooth"],
+    "cognates": ["Latin dens", "French dent", "dentist"]
+  },
+  {
+    "id": "dentist",
+    "word": "dentist",
+    "meaning": "tooth specialist",
+    "pos": "noun",
+    "ipa": "/ˈdɛntɪst/",
+    "pieRoot": "*h₃dónts",
+    "etymologyChain": ["PIE *h₃dónts", "Latin dens/dentis", "French dentiste", "Modern English dentist"],
+    "cognates": ["dental", "orthodontics"]
+  },
+  {
+    "id": "night",
+    "word": "night",
+    "meaning": "period of darkness between sunset and sunrise",
+    "pos": "noun",
+    "ipa": "/naɪt/",
+    "pieRoot": "*nókʷts",
+    "etymologyChain": ["PIE *nókʷts", "Proto-Germanic *nahts", "Old English niht", "Modern English night"],
+    "cognates": ["Latin nox", "French nuit", "German Nacht"]
+  },
+  {
+    "id": "nocturnal",
+    "word": "nocturnal",
+    "meaning": "active at night",
+    "pos": "adjective",
+    "ipa": "/nɒkˈtɜːrnəl/",
+    "pieRoot": "*nókʷts",
+    "etymologyChain": ["PIE *nókʷts", "Latin nocturnus", "French nocturne", "Modern English nocturnal"],
+    "cognates": ["equinox", "night"]
+  },
+  {
+    "id": "water",
+    "word": "water",
+    "meaning": "clear liquid essential for life",
+    "pos": "noun",
+    "ipa": "/ˈwɔːtər/",
+    "pieRoot": "*wódr̥",
+    "etymologyChain": ["PIE *wódr̥", "Proto-Germanic *watōr", "Old English wæter", "Modern English water"],
+    "cognates": ["German Wasser", "Russian voda", "hydro-"]
+  },
+  {
+    "id": "otter",
+    "word": "otter",
+    "meaning": "semi-aquatic mammal",
+    "pos": "noun",
+    "ipa": "/ˈɒtər/",
+    "pieRoot": "*wódr̥",
+    "etymologyChain": ["PIE *wódr̥", "Proto-Germanic *utraz", "Old English otor", "Modern English otter"],
+    "cognates": ["water", "hydra"]
+  },
+  {
+    "id": "hound",
+    "word": "hound",
+    "meaning": "dog, especially one used for hunting",
+    "pos": "noun",
+    "ipa": "/haʊnd/",
+    "pieRoot": "*ḱwṓn",
+    "etymologyChain": ["PIE *ḱwṓn", "Proto-Germanic *hundaz", "Old English hund", "Modern English hound"],
+    "cognates": ["Latin canis", "Greek kuōn", "canine"]
+  },
+  {
+    "id": "canine",
+    "word": "canine",
+    "meaning": "relating to dogs; pointed tooth",
+    "pos": "adjective / noun",
+    "ipa": "/ˈkeɪnaɪn/",
+    "pieRoot": "*ḱwṓn",
+    "etymologyChain": ["PIE *ḱwṓn", "Latin caninus", "French canin", "Modern English canine"],
+    "cognates": ["hound", "kennel"]
+  },
+  {
+    "id": "yoke",
+    "word": "yoke",
+    "meaning": "wooden crosspiece for draft animals; to join",
+    "pos": "noun / verb",
+    "ipa": "/joʊk/",
+    "pieRoot": "*yugóm",
+    "etymologyChain": ["PIE *yugóm", "Proto-Germanic *juką", "Old English geoc", "Modern English yoke"],
+    "cognates": ["Latin iugum", "Sanskrit yoga"]
+  },
+  {
+    "id": "yoga",
+    "word": "yoga",
+    "meaning": "discipline of physical and spiritual practices",
+    "pos": "noun",
+    "ipa": "/ˈjoʊɡə/",
+    "pieRoot": "*yugóm",
+    "etymologyChain": ["PIE *yugóm", "Sanskrit yoga", "Hindi yoga", "Modern English yoga"],
+    "cognates": ["yoke", "conjugal"]
+  },
+  {
+    "id": "wheel",
+    "word": "wheel",
+    "meaning": "circular object that rotates on an axle",
+    "pos": "noun",
+    "ipa": "/wiːl/",
+    "pieRoot": "*kʷékʷlos",
+    "etymologyChain": ["PIE *kʷékʷlos", "Proto-Germanic *hweulaz", "Old English hweol", "Modern English wheel"],
+    "cognates": ["Greek kyklos", "cycle", "chakra"]
+  },
+  {
+    "id": "cycle",
+    "word": "cycle",
+    "meaning": "series of events that repeat; bicycle",
+    "pos": "noun",
+    "ipa": "/ˈsaɪkəl/",
+    "pieRoot": "*kʷékʷlos",
+    "etymologyChain": ["PIE *kʷékʷlos", "Greek kyklos", "French cycle", "Modern English cycle"],
+    "cognates": ["wheel", "cyclical"]
+  }
+]
