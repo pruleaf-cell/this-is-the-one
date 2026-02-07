@@ -1,0 +1,120 @@
+{
+  "words": [
+    {
+      "word": "night",
+      "meaning": "the period of darkness in each twenty-four hours",
+      "timeline": [
+        { "year": -4500, "label": "Proto-Indo-European", "form": "*nókʷts" },
+        { "year": -500, "label": "Proto-Germanic", "form": "*nahts" },
+        { "year": 900, "label": "Old English", "form": "neaht / niht" },
+        { "year": 1350, "label": "Middle English", "form": "night" },
+        { "year": 2024, "label": "Modern English", "form": "night" }
+      ],
+      "tree": {
+        "name": "night (English)",
+        "period": "Modern",
+        "children": [
+          {
+            "name": "night (Middle English)",
+            "period": "c. 1350",
+            "children": [
+              {
+                "name": "niht (Old English)",
+                "period": "c. 900",
+                "children": [
+                  {
+                    "name": "*nahts (Proto-Germanic)",
+                    "period": "c. 500 BCE",
+                    "children": [
+                      {
+                        "name": "*nókʷts (PIE)",
+                        "period": "c. 4500 BCE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "word": "school",
+      "meaning": "a place for education",
+      "timeline": [
+        { "year": -800, "label": "Ancient Greek", "form": "σχολή (skholḗ)" },
+        { "year": -100, "label": "Latin", "form": "schola" },
+        { "year": 1100, "label": "Old French", "form": "escole" },
+        { "year": 1200, "label": "Middle English", "form": "scole" },
+        { "year": 2024, "label": "Modern English", "form": "school" }
+      ],
+      "tree": {
+        "name": "school (English)",
+        "period": "Modern",
+        "children": [
+          {
+            "name": "scole (Middle English)",
+            "period": "c. 1200",
+            "children": [
+              {
+                "name": "escole (Old French)",
+                "period": "c. 1100",
+                "children": [
+                  {
+                    "name": "schola (Latin)",
+                    "period": "Classical",
+                    "children": [
+                      {
+                        "name": "σχολή / skholḗ (Greek)",
+                        "period": "Ancient Greek"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "word": "salary",
+      "meaning": "fixed regular payment for work",
+      "timeline": [
+        { "year": -50, "label": "Latin", "form": "salarium" },
+        { "year": 1200, "label": "Old French", "form": "salaire" },
+        { "year": 1300, "label": "Middle English", "form": "salarie" },
+        { "year": 2024, "label": "Modern English", "form": "salary" }
+      ],
+      "tree": {
+        "name": "salary (English)",
+        "period": "Modern",
+        "children": [
+          {
+            "name": "salarie (Middle English)",
+            "period": "c. 1300",
+            "children": [
+              {
+                "name": "salaire (Old French)",
+                "period": "c. 1200",
+                "children": [
+                  {
+                    "name": "salarium (Latin)",
+                    "period": "Classical",
+                    "children": [
+                      {
+                        "name": "sal (Latin: salt)",
+                        "period": "Root concept"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
