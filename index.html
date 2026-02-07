@@ -3,13 +3,36 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Etymology (Static)</title>
+    <title>Etymology Explorer</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <main>
-      <h1>Etymology</h1>
-      <p>If you can read this, your deploy works. Humanity still won’t, but your site will.</p>
+    <main class="app">
+      <header class="app-header">
+        <h1>AI-Powered Etymology Explorer</h1>
+        <p>Explore where words come from through interactive lineage trees and historical timelines.</p>
+      </header>
+
+      <section class="controls" aria-label="word selector">
+        <label for="word-picker">Choose a word</label>
+        <select id="word-picker"></select>
+        <p><strong>Meaning:</strong> <span id="word-meaning"></span></p>
+      </section>
+
+      <section class="visualizations">
+        <article class="panel">
+          <h2>Origin Tree</h2>
+          <div id="tree-container" class="viz-container"></div>
+        </article>
+
+        <article class="panel">
+          <h2>Timeline</h2>
+          <div id="timeline-container" class="viz-container"></div>
+        </article>
+      </section>
     </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="./main.js"></script>
   </body>
 </html>
